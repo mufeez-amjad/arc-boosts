@@ -4,8 +4,6 @@
 
 Hides shorts in the subscriptions feed.
 
-Before:
-![Before](./youtube-hide-shorts/before.png)
-
-After:
-![After](./youtube-hide-shorts/after.png)
+Before             |  After
+:-------------------------:|:-------------------------:
+![Before](./youtube-hide-shorts/before.png)  |  ![After](./youtube-hide-shorts/after.png)
